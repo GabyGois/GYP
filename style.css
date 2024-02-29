@@ -8,3 +8,6 @@ body {
      --cor-de-texto: #1a456d;
     }
 
+header{ 
+    display: flex;
+}
