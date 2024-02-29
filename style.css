@@ -1,4 +1,10 @@
 body {
-    background-color: #5fbb5f;
+    background-color: var(--cor-de-fundo);
 } 
 /* <!--cor de fundo>  */
+
+:root{
+    --cor-de-fundo: #5fbb5f;
+     --cor-de-texto: #ffffff;
+    }
+
