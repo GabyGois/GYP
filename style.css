@@ -12,6 +12,7 @@ body {
     --cor-de-fundo: #5fbb5f;
      --cor-de-texto: #1a456d;
      --branco: #ffffff;
+     --background:#96BA68;
     }
 
 header{ 
@@ -23,6 +24,7 @@ header{
     flex-wrap: nowrap;
     align-items: flex-start;
     align-items: center;
+    background-color: var(--background);
 }
 .imagem{
 
