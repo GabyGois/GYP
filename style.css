@@ -31,4 +31,6 @@ img{
     width: 5%;
 }
 
-.apresentação
+.apresentação{
+    display: flex;
+}
