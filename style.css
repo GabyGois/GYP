@@ -11,6 +11,7 @@ body {
 :root{
     --cor-de-fundo: #5fbb5f;
      --cor-de-texto: #1a456d;
+     --branco 
     }
 
 header{ 
@@ -33,4 +34,5 @@ img{
 
 .apresentaçao{
     display: flex;
+    background-color: var(--branco);
 }
