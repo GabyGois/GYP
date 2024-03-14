@@ -25,7 +25,12 @@ header{
     align-items: flex-start;
     align-items: center;
     background-color: var(--background);
+    margin: 20px; 
+    border: 6px solid; 
+    padding: 30px;
+     border-radius: 20px;
 }
+
 .imagem{
 
     width: 10%;
