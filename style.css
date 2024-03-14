@@ -28,7 +28,6 @@ body {
     flex-wrap: nowrap;
     align-items: center;
     background-color: var(--background);
-    margin: 0 0 48px;
 }
 
 .imagem{
@@ -49,4 +48,5 @@ img{
 
 header{
     background-color: var(--verde);
+    padding: 0 0 20px;
 }
