@@ -21,7 +21,7 @@ body {
      --verde-claro:#DCEBC3;
     }
 
-header{ 
+.cabecario{ 
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -45,4 +45,8 @@ img{
     border: solid var(--verde);
     border-width: 20px 0 0 0;
 
+}
+
+header{
+    background-color: var(--verde);
 }
