@@ -14,10 +14,11 @@ body {
 
    
 :root{
-    --cor-de-fundo: #5fbb5f;
+    --cor-de-fundo: #ffffff;
      --cor-de-texto: #1a456d;
      --verde: #0e6d1b;
      --background:#96BA68;
+     --verde-claro:#DCEBC3;
     }
 
 header{ 
@@ -40,8 +41,8 @@ img{
 
 .apresentaçao{
     display: flex;
-    background-color: var(--branco);
+    background-color: var(--verde-claro);
     border: solid var(--verde);
-    border-width: 20px 0 0 0 ;
+    border-width: 20px 0 0 0;
 
 }
