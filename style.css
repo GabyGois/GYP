@@ -11,7 +11,7 @@ body {
 :root{
     --cor-de-fundo: #5fbb5f;
      --cor-de-texto: #1a456d;
-     --branco: #ffffff;
+     --verde: #67d676;
      --background:#96BA68;
     }
 
@@ -39,5 +39,5 @@ img{
     background-color: var(--branco);
     border: solid var(--branco);
     border-width: 20px 0 0 0 ;
-    
+
 }
