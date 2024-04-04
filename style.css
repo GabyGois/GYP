@@ -50,3 +50,8 @@ header{
     background-color: var(--verde);
     padding: 0 0 20px;
 }
+
+.equipe{
+display: grid;
+grid-template-columns: 33% 33% 33%;
+}
