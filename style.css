@@ -61,4 +61,11 @@ width:50%;
 
 }
 
-
+.f{ 
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: var(--background);
+}
