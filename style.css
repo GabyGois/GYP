@@ -60,12 +60,7 @@ grid-template-columns: 33% 33% 33%;
 width:50%;
 
 }
-
-.f{ 
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    align-items: center;
-    background-color: var(--background);
+footer{
+    background-color:#96BA68;
+    color: #ffffff;
 }
