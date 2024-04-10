@@ -51,10 +51,6 @@ header{
     padding: 0 0 20px;
 }
 
-.equipe{
-display: grid;
-grid-template-columns: 33% 33% 33%;
-}
 
 .foto-equipe{
 width:50%;
