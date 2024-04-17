@@ -36,7 +36,7 @@ body {
 }
 
 .linha {
-    border-top: 2px solid var(--cor-de-fundo);
+    border-top: 2px solid var(--preto);
 }
 
 .imagem {
