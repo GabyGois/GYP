@@ -49,8 +49,7 @@ img {
 .apresentaçao {
 
     background-color: var(--verde-claro);
-
-    border-width: 20px 0 0 0;
+    border-radius: 60px;
     width: 92%;
     margin-left: 3%;
 
