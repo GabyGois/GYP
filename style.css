@@ -31,6 +31,7 @@ body {
     align-items: center;
     background-color: var(--background);
     padding-right: 6%;
+    padding-left: 2%;
 }
 
 .linha {
