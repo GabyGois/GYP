@@ -77,7 +77,7 @@ footer {
 }
 
 header a {
-    color: white;
+    color: var(--cor-botao);
 
     text-decoration: none;
 }
