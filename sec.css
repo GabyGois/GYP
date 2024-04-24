@@ -1,0 +1,30 @@
+:root {
+    --cor-de-fundo: darkseagreen;
+    --cor-de-texto: #1a456d;
+    --verde: #0e6d1b;
+    --background: #96BA68;
+    --verde-claro: #DCEBC3;
+    --cor-botao: #136C11;
+    --preto: #000000;
+}
+
+
+header {
+    background-color: var(--verde);
+    padding: 0 0 28px;
+}
+
+.cabecario {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: var(--background);
+    padding-right: 6%;
+    padding-left: 2%;
+}
+
+.linha {
+    border-top: 2px solid var(--preto);
+}
