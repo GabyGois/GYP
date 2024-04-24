@@ -28,3 +28,10 @@ header {
 .linha {
     border-top: 2px solid var(--preto);
 }
+
+
+header a {
+    color: var(--cor-botao);
+
+    text-decoration: none;
+}
